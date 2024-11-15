@@ -5,7 +5,7 @@ import csv
 from tkinter import ttk
 
 class Quiz:
-    def __init_(self, master):
+    def __init__(self, master):
         self.master = master
         self.master.title("Quiz Application")
         self.master.geometry("1920x1080")
